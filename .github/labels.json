@@ -1,0 +1,72 @@
+[
+  {
+    "name": "bug",
+    "color": "d73a49",
+    "description": "Something isn't working - Indicates an error, flaw, or failure in the codebase"
+  },
+  {
+    "name": "feature-request",
+    "color": "a2eeef",
+    "description": "New feature or enhancement request - Suggests an improvement or new functionality"
+  },
+  {
+    "name": "documentation",
+    "color": "0075ca",
+    "description": "Documentation - Improvements or additions to documentation"
+  },
+  {
+    "name": "docker",
+    "color": "0db7ed",
+    "description": "Docker-related - Issues related to Docker setup, configuration, or deployment"
+  },
+  {
+    "name": "installation",
+    "color": "ffd700",
+    "description": "Installation issues - Problems with setup, installation, or initial configuration"
+  },
+  {
+    "name": "needs-info",
+    "color": "ffccff",
+    "description": "Needs more information - Issue requires additional details from the reporter before it can be addressed"
+  },
+  {
+    "name": "confirmed",
+    "color": "28a745",
+    "description": "Confirmed - Issue has been verified and reproduced by maintainers"
+  },
+  {
+    "name": "fixed",
+    "color": "6f42c1",
+    "description": "Fixed - This issue has been resolved and a fix is available"
+  },
+  {
+    "name": "duplicate",
+    "color": "cccccc",
+    "description": "Duplicate - This issue is a duplicate of another issue"
+  },
+  {
+    "name": "wontfix",
+    "color": "ffffff",
+    "description": "Won't fix - This issue will not be resolved for various reasons"
+  },
+  {
+    "name": "good-first-issue",
+    "color": "7057ff",
+    "description": "Good first issue - Good for newcomers - A good issue for first-time contributors"
+  },
+  {
+    "name": "help-wanted",
+    "color": "33aa3f",
+    "description": "Help wanted - We need community help with this"
+  },
+  {
+    "name": "performance",
+    "color": "ff6600",
+    "description": "Performance - Performance issues or optimizations needed"
+  },
+  {
+    "name": "security",
+    "color": "ee0701",
+    "description": "Security - Security vulnerability or security-related issue"
+  }
+]
